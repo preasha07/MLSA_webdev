@@ -20,9 +20,6 @@ This project has been built to encourage and engage **learners** with a curiosit
 + **User Generated Content** - Experienced users are invited to share their own learning materials and resources, **enhancing the diversity** and depth of the platform's content.
 + **Gamification Elements** - Gamification is integrated into the platform to motivate and engage larners. This includes badges, achievements, and progress milestones, providing a **sense of accomplishment**.
 + **Udemy-like Experience** - Courses and learning paths are freely available to users. They are empowered to track their progress, acknowledge completed sections, provide feedback through reviews, and earn completion certificates. This feature fosters an inclusive learning environment and motivates learners to actively interact with the content.
-+ **Leaderboards and Rankings** - We recognise and highlight our top performers, providing an extra motivation for users to excel in challanges.
-+ **Pair Programming Sessions** - Users can arrange and participate in live pair programming sessions, fostering real-time collaboration and discussion of solutions.
-+ **Optional Anonymity** - Users can choose to participate in challenges anonymously, respecting their privacy preferences.
 
 ## 🚀 Enhanced Feature :
 
@@ -36,14 +33,14 @@ Introducing Domain Groups, a power-packed addition that supercharges AlgoArena's
 
 ## 🎓 Contributors:
 
-| CONTRIBUTORS | MAINTAINERS | MENTORS |
-| :----------: |  :-------:  | :-----: |
-| Utkarsh Jha | Manish Malhotra | Amaan Bhati |
-| Vinamra Saurav | Ankit Kumar | Harsh Raj |
-| Soumyadeep Mitra | | |
-| Akangkha Sarkar | | |
-| Shruti | | |
-| Adarsh Upadhyay | | |
-| Maanas Sehgal | | |
-| Nitin Kumar Singh | | |
-|Shahan Ali Anwar | | |
+| CONTRIBUTORS | MAINTAINERS | MENTORS | CONENT WRITER |
+| :----------: |  :-------:  | :-----: | :----------: |
+| Utkarsh Jha | Manish Malhotra | Amaan Bhati | Preasha Ghoshal |
+| Vinamra Saurav | Ankit Kumar | Harsh Raj | |
+| Soumyadeep Mitra | | | |
+| Akangkha Sarkar | | | |
+| Shruti | | | |
+| Adarsh Upadhyay | | | |
+| Maanas Sehgal | | | |
+| Nitin Kumar Singh | | | |
+|Shahan Ali Anwar | | | |
